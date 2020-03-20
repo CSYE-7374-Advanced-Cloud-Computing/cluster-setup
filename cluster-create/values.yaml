@@ -68,9 +68,3 @@ tolerations: []
 
 affinity: {}
 
-clientid: c149c0eeb31579877598
-
-secretid: 357a99170b4b86c93f9c45e1d9038ea5dd0de987
-
-proxysecret: 4hDPLzmoBu8lEWBXsVP6Mw==
-
