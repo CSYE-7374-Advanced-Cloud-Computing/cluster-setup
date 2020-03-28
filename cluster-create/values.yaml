@@ -68,3 +68,6 @@ tolerations: []
 
 affinity: {}
 
+cluster-autoscaler:
+  autoDiscovery:
+    clusterName:
