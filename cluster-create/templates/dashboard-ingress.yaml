@@ -9,7 +9,7 @@ metadata:
   namespace: kube-system
 spec:
   rules:
-  - host: hgadhiya.me
+  - host: dashboard.paavangopala.me
     http:
       paths:
       - backend:
@@ -29,7 +29,7 @@ metadata:
   namespace: kube-system
 spec:
   rules:
-  - host: hgadhiya.me
+  - host: dashboard.paavangopala.me
     http:
       paths:
       - backend:
@@ -38,5 +38,5 @@ spec:
         path: /oauth2
   tls:
   - hosts:
-    - hgadhiya.me
+    - dashboard.paavangopala.me
     secretName: tls-secret
